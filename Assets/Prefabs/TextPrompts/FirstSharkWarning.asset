@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7f721083e62c0148b17964b1e87dc07, type: 3}
+  m_Name: FirstSharkWarning
+  m_EditorClassIdentifier: 
+  message: "Hey man, be careful coming out of that cave. According to our scanners
+    the  <b><color=red>shark</color></b> has been seen patrolling around your base.
+    Don't let him see you, or else <color=red>we might not be able to save you in
+    time.</color> \n\nTry to utilize <color=green>obstacles and terrain</color> to
+    avoid his sightline. He seems to just be swimming in circles, so hopefully it
+    should be relatively easy to avoid."
+  portrait: {fileID: 21300000, guid: 1dc9b367a576a974381874e2d547ccec, type: 3}
+  portraitIsFullscreen: 0
