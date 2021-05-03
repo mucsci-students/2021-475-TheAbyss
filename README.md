@@ -23,9 +23,9 @@ Submerge yourself into the depths to find a long lost treasure while avoiding a 
 
 ## Credits
 - Burger Builder was created by Joshua Carney, Chris Signor, and Max Moyer.
+- Additional voice acting by Connor Dwyer
 - [Abandon Alphabeta Font](https://www.1001freefonts.com/abandon-alphabeta.font)
 - [Instruction Font](https://www.1001freefonts.com/instruction.font)
-- Additional voice acting by Connor Dwyer
 - ...
 
 ## Media and Summary
