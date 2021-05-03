@@ -4,8 +4,8 @@
 Submerge yourself into the depths to find a long lost treasure while avoiding a dangerous foe...
 
 ## Download links
-- [Google Drive (Windows v1)]()
-- [Google Drive (Mac v1)]()
+- [Google Drive (Windows v1)](https://drive.google.com/file/d/1ujacz_d9VqCLTuA_mif0CB9PO3T8T22d/view?usp=sharing)
+- [Google Drive (Mac v1)](https://drive.google.com/file/d/1yUrcokbV6mcB9AzewgkY-padP4Il5I7F/view?usp=sharing)
 
 ## Instructions for Running (Windows)
 1. Download the Windows version zip file from above
