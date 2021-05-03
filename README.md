@@ -26,6 +26,14 @@ Submerge yourself into the depths to find a long lost treasure while avoiding a 
 - Additional voice acting by Connor Dwyer
 - [Abandon Alphabeta Font](https://www.1001freefonts.com/abandon-alphabeta.font)
 - [Instruction Font](https://www.1001freefonts.com/instruction.font)
+- [Skeleton](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/skeleton-pbr-animated-low-poly-30659)
+- [Horse Statue](https://assetstore.unity.com/packages/3d/environments/fantasy/horse-statue-52025)
+- [Golden Dragon Head Treasure](https://assetstore.unity.com/packages/3d/props/interior/golden-dragon-statue-63132)
+- [Screaming Statue](https://assetstore.unity.com/packages/3d/environments/dungeons/screaming-statue-60499)
+- [Underwater Base](https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913)
+- [Fish Flocking AI](https://assetstore.unity.com/packages/3d/characters/animals/nvjob-simple-boids-flocks-of-birds-fish-and-insects-164188)
+- [Sand Texture](https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-sand-materials-12964)
+- [Rocks/Tunnels](https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529)
 - ...
 
 ## Media and Summary
