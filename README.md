@@ -7,7 +7,7 @@ Submerge yourself into the depths to find a long lost treasure while avoiding a 
 - [Google Drive (Windows v1)](https://drive.google.com/file/d/1ujacz_d9VqCLTuA_mif0CB9PO3T8T22d/view?usp=sharing)
 - [Google Drive (Mac v1)](https://drive.google.com/file/d/1yUrcokbV6mcB9AzewgkY-padP4Il5I7F/view?usp=sharing)
 
-NOTE: We've gotten some reports of inconsistent instability and crashing. We're looking into it, but if the game crashes, please restart and try again! It doesn't happen every time at least 
+NOTE: We've gotten some reports of inconsistent instability and crashing. We're looking into it, but if the game crashes, please restart and try again! It doesn't happen every time at least :)
 
 ## Instructions for Running (Windows)
 1. Download the Windows version zip file from above
