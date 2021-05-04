@@ -3,6 +3,8 @@
 # CSCI 475: The Abyss
 Submerge yourself into the depths to find a long lost treasure while avoiding a dangerous foe...
 
+NOTE!: Since some of the models were extremely large in file size, not all models used in game are present in this repo. Sorry!
+
 ## Download links
 - [Google Drive (Windows v1)](https://drive.google.com/file/d/1ujacz_d9VqCLTuA_mif0CB9PO3T8T22d/view?usp=sharing)
 - [Google Drive (Mac v1)](https://drive.google.com/file/d/1yUrcokbV6mcB9AzewgkY-padP4Il5I7F/view?usp=sharing)
